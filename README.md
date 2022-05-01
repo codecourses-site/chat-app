@@ -22,7 +22,7 @@
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-build-full-react-chat-app-ep-1/).
 
-- You can refer to this [Youtube video](https://www.youtube.com/watch?v=84F6e71Rtc8) for the live demo.
+- You can refer to this [Youtube video](https://www.youtube.com/watch?v=7psb4rZ_uyQ) for the live demo.
 
 
 <a id="screenshot"></a>
