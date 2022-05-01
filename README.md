@@ -1,4 +1,4 @@
-# How to Build a Chat App
+# How to Build Full React Chat App
 
 ## Table of Contents
 
