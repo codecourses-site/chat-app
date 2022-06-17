@@ -30,7 +30,6 @@ const Login = ({ toggleModal }) => {
 
   const login = async () => {
     try {
-      uiService.showLoading();
       const { email, password } = getInputs();
       if (isUserCredentialsValid(email, password)) {
         await firebaseService.login(email, password);
